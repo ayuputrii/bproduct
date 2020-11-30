@@ -1,0 +1,46 @@
+.navbar {
+    margin-top: 10px;
+    color: black;
+}
+
+.jumbotron {
+    background-image: url('../img/5.jpg');
+    background-size: cover;
+    height: 1000px;
+    text-align: center;
+}
+
+.jumbotron .display-4 {
+    color: black;
+    margin-top: 80px;
+    font-family: sans-serif;
+}
+
+.jumbotron p {
+    color: black;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.jumbotron hr {
+    border-color: #F05F40;
+    width: 70px;
+    border-width: 3px;
+}
+
+.jumbotron .btn {
+    background-color: #F05F40;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 40px;
+}
+
+.jumbotron .h2 {
+    padding-top: 60px;
+}
+
+.jumbotron .form {
+    text-align: left;
+}
